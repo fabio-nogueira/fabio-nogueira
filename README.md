@@ -6,10 +6,10 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 😄 Pronouns: He/Him
-- 👨‍🔬 I'm a Computer Scientist
-- 💬 I can speak Portuguese, English and Chinese
+- 👨‍🔬 Computer Scientist
+- 💬 Portuguese, English and Chinese
 - 🔭 I’m currently working as **Data Engineer @Globo**
-- 🔭 I’m currently working on my Master's degree dissertation
+- :man_student: I'm currently pursuing a Master Degree in Data Engineering at COPPE-UFRJ
 - 🌱 I’m currently learning **Scala and Flink**
 - 📫 How to reach me **fabionogueira@coppe.ufrj.br**<br>
 
