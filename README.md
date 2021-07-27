@@ -8,10 +8,16 @@
 - 😄 Pronouns: He/Him
 - 👨‍🔬 I'm a Computer Scientist
 - 💬 I can speak Portuguese, English and Chinese
-- 🔭 I’m currently working **as Data Engineer @Globo**
+- 🔭 I’m currently working as **Data Engineer @Globo**
 - 🔭 I’m currently working on my Master's degree dissertation
 - 🌱 I’m currently learning **Scala and Flink**
 - 📫 How to reach me **fabionogueira@coppe.ufrj.br**<br>
+
+## ✏️ Articles
+
+- <a href='https://www.linkedin.com/pulse/cursando-disciplinas-isoladas-em-outras-faculdades-fabio-nogueira/' target='_blank'>Cursando disciplinas isoladas em outras faculdades </a> - 31-12-2019
+- <a href='https://www.linkedin.com/pulse/9-coisas-que-aprendi-morando-dois-anos-em-xangai-na-china-nogueira/' target='_blank'>9 Coisas que aprendi morando dois anos em Xangai, na China.</a> - 29-11-2019
+
 
 <h2 align="left">:heart: Let's get connected:</h2>
 <p align="left">
