@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" height = "200px" src="https://i.imgur.com/ow7VUGj.jpeg" alt="cover" />
 </div>
-<h1 align="center">Hi 👋, I'm Fabio Nogueira</h1>
+<h1 align="center">Hi 👋, I'm Fabio Nogueira :rainbow_flag: </h1>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
