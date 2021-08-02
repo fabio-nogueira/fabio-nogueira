@@ -19,6 +19,10 @@
 - <a href='https://www.linkedin.com/pulse/9-coisas-que-aprendi-morando-dois-anos-em-xangai-na-china-nogueira/' target='_blank'>9 Coisas que aprendi morando dois anos em Xangai, na China.</a> - 29-11-2019
 
 
+## :test_tube: Projects
+
+- <a href='https://github.com/fabio-nogueira/projeto_topicos_bd_2' target='_blank'>Projeto predição de consumo energia usando Spark, Prophet e GCP</a> - 02-08-2021
+
 <h2 align="left">:heart: Let's get connected:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/fabioluizsilvanogueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabioluizsilvanogueira" height="30" width="40" /></a>
