@@ -9,8 +9,7 @@
 - 👨‍🔬 Computer Scientist
 - 💬 Languages: Portuguese, English and Chinese
 - 🔭 I’m currently working as **Data Engineer @Globo**
-- :man_student: I'm currently pursuing a Master Degree in **Data Engineering @COPPE-UFRJ**
-- 🌱 I’m currently learning **Scala and Flink**
+- 🌱 I’m currently learning **AWS and Terraform**
 - 📫 How to reach me **fabionogueira@coppe.ufrj.br**<br>
 
 ## ✏️ Articles
