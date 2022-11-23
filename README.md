@@ -8,9 +8,9 @@
 - 😄 Pronouns: He/Him
 - 👨‍🔬 Computer Scientist
 - 💬 Languages: Portuguese, English and Chinese
-- 🔭 I’m currently working as **Data Engineer @Globo**
+- 🔭 I’m currently working as **Data Engineer @BESTSELLER**
 - 🌱 I’m currently learning **AWS and Terraform**
-- 📫 How to reach me **fabionogueira@coppe.ufrj.br**<br>
+- 📫 How to reach me <a href='https://www.linkedin.com/in/fabioluizsilvanogueira/' target='_blank'>**Linkedin**<br>
 
 ## ✏️ Articles
 
